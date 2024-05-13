@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-marked/static/css/main.f855e6bc.css",
+    "main.js": "/fcc-marked/static/js/main.361637f6.js",
+    "static/js/453.19112853.chunk.js": "/fcc-marked/static/js/453.19112853.chunk.js",
+    "index.html": "/fcc-marked/index.html",
+    "main.f855e6bc.css.map": "/fcc-marked/static/css/main.f855e6bc.css.map",
+    "main.361637f6.js.map": "/fcc-marked/static/js/main.361637f6.js.map",
+    "453.19112853.chunk.js.map": "/fcc-marked/static/js/453.19112853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.361637f6.js"
+  ]
+}
